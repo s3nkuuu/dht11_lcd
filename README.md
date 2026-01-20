@@ -35,6 +35,3 @@ This project uses a **DHT11 sensor** to measure temperature and humidity and dis
 2. Connect the components
 3. Upload `dht11_lcd.ino`
 4. Open Serial Monitor (9600 baud)
-
-## 👤 Author
-Jhay-Em Calleja
